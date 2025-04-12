@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.appgate</groupId>
 	<artifactId>distinct-subsequences</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>distinct-subsequences</name>
 	<description>Coding challenge distinct subsequences</description>
 	<url />

@@ -1,0 +1,5 @@
+services:
+  distinct-subsequences:
+    build: .
+    ports:
+      - "8080:8080"
