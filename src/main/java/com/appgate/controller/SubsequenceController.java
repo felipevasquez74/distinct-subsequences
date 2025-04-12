@@ -23,7 +23,7 @@ import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
 
 @RestController
-@RequestMapping("/api/subsequence")
+@RequestMapping("/api/v1/subsequence")
 @Slf4j
 @Tag(name = "Subsequence Analyzer", description = "API for analyzing distinct subsequences")
 @Validated
